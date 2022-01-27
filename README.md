@@ -30,8 +30,12 @@ To run this code, I used VS code. But you can run it on any terminal. As long as
 
 ## Running the Program 
 Since I only used one function, executing the file is easy. All you have to do is run the following command 
+
 ```g++ programming_project1.cpp```
+
 Once the code compiles, run the following command. 
+
 ```./a.out programming_project1.txt```
+
 The txt file is whatever txt file you would like to use. When you run the code, it would display the result or give you an error message if the file does not exist. 
 
