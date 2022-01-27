@@ -8,7 +8,7 @@ This program is designed to open a file, read the text and add the hexadecemials
 After adding the hexadecimals, it will desplay out the sum. 
 
 ## What the program is Using
-These are the headers that my program uses. 
+These are the headers that my program uses.
 ```#include <iostream>``` This header is for standard input and output
 ```#include <ifstream>``` I used this header to allow me to File I/O (opening the other files )
 ```#include <sstream>``` I used this header for stream string 
