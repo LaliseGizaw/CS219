@@ -1,6 +1,8 @@
 # Programming Project 1
 Lalise Gizaw 
+
 CS 219 
+
 Monday 24, 2022
 
 ## Programming Information 
@@ -9,10 +11,15 @@ After adding the hexadecimals, it will desplay out the sum.
 
 ## What the program is Using
 These are the headers that my program uses.
+
 ```#include <iostream>``` This header is for standard input and output
+
 ```#include <ifstream>``` I used this header to allow me to File I/O (opening the other files )
+
 ```#include <sstream>``` I used this header for stream string 
+
 ```#include <cstint>``` I used this header for the unsigned integer to store the hex in it. 
+
 Functions 
 I only have one functioon which is the main function
 In this function, I opened the file and read the file and added the hexadcimals. 
